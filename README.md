@@ -65,15 +65,33 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+```
 
- Developed by: RegisterNumber: 
+module exp1(a,b,y1,y2,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y4,y5,y6,y7;
+and(y1,a,b);
+or(y2,a,b);
+nand(y4,a,b);
+nor(y5,a,b);
+xor(y6,a,b);
+xnor(y7,a,b);
+endmodule
+
+```
+ Developed by:Mohamed Asil S   RegisterNumber: 212223040112
  
 **Logic symbol & Truthtable**
+![Screenshot 2024-04-25 161013](https://github.com/Mohamedasils/study-of-basic-gates/assets/144870445/1b27567b-8eaa-4a26-8bfc-73eb4e34598e)
 
 **RTL realization Output:** 
+![Screenshot 2024-04-25 161041](https://github.com/Mohamedasils/study-of-basic-gates/assets/144870445/fc880a12-aee6-41de-a475-0dbe9abb5675)
 
 **RTL**
 
+![Screenshot 2024-04-25 161101](https://github.com/Mohamedasils/study-of-basic-gates/assets/144870445/a9766018-cc85-4a89-9fa1-3937ce43b12c)
+
 **Result:**
 
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
