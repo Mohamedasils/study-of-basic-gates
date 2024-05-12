@@ -85,7 +85,8 @@ endmodule
 ![Screenshot 2024-04-25 161013](https://github.com/Mohamedasils/study-of-basic-gates/assets/144870445/1b27567b-8eaa-4a26-8bfc-73eb4e34598e)
 
 **RTL realization Output:** 
-![Screenshot 2024-04-25 161041](https://github.com/Mohamedasils/study-of-basic-gates/assets/144870445/fc880a12-aee6-41de-a475-0dbe9abb5675)
+![Screenshot 2024-05-09 102148](https://github.com/Mohamedasils/study-of-basic-gates/assets/144870445/d5577a77-7271-4d6d-bc75-9352e77e81ca)
+
 
 **RTL**
 
